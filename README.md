@@ -1,2 +1,4 @@
-Estructura para un proyecto con spring mvc
-con configuración de spring-servlet.xml
+Plantilla para un proyecto con Spring MVC:
+
+- Configuración de spring-servlet.xml (Dispatcher Servlet)
+- Configuración de Root Application Context
